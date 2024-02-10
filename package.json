@@ -28,5 +28,6 @@
     "gh-pages": "^6.1.1",
     "typescript": "^5.2.2",
     "vite": "^5.0.8"
-  }
+  },
+  "homepage": "http://chills-01.github.io/valentines-app"
 }
