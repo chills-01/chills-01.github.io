@@ -1,0 +1,16 @@
+.moving-button {
+    transition: all 0.1s ease-in-out;
+    /* background-color:; */
+
+    margin: 20px;
+  }
+  
+  .moving-button.hovered {
+    transform: translateX(10px); /* Adjust the value based on how much you want the button to move */
+  }
+
+  .static-button {
+    margin: 20px;
+    /* background-color: ; */
+  }
+  
